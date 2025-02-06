@@ -17,7 +17,7 @@ This dataset contains the following columns:
 ## Methodology
 This dataset was collected from Virginia Tech's institutional repository,  
 [VTechWorks](https://vtechworks.lib.vt.edu/), using the Open Archives  
-Initiative Protocol for Metadata Harvesting (OAI-PMH). on September 22, 2023.
+Initiative Protocol for Metadata Harvesting (OAI-PMH) on September 22, 2023.
 
 ## Citing This Dataset
 If you use this dataset in your research, please cite the following paper:  
