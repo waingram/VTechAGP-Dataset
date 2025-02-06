@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+title: "VTechAGP: Academic-to-General-Audience ETD Abstracts"
+version: "1.0.0"
+authors:
+  - family-names: "Ingram"
+    given-names: "William A."
+    affiliation: "Virginia Tech"
+    orcid: "0000-0002-8307-8844"
+  - family-names: "Cheng"
+    given-names: "Ming"
+    affiliation: "Virginia Tech"
+    orcid: "0009-0006-8475-2331"
+  - family-names: "Gong"
+    given-names: "Jiaying"
+    affiliation: "Virginia Tech"
+  - family-names: "Yuan"
+    given-names: "Chenhan"
+    affiliation: "Virginia Tech"
+  - family-names: "Fox"
+    given-names: "Edward A."
+    affiliation: "Virginia Tech"
+    orcid: "0000-0003-1447-6870"
+  - family-names: "Eldardiry"
+    given-names: "Hoda"
+    affiliation: "Virginia Tech"
+    orcid: "0000-0002-9712-6667"
+doi: "10.5281/zenodo.xxxxx"
+license: "ODC-By-1.0"
+date-released: "2025-02-06"
+repository-code: "https://github.com/waingram/VTechAGP-Dataset"
+url: "https://doi.org/10.5281/zenodo.xxxxx"
+keywords:
+  - ETDs
+  - text simplification
+  - academic abstracts
+  - paraphrase dataset
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cheng"
+      given-names: "Ming"
+      orcid: "0009-0006-8475-2331"
+    - family-names: "Gong"
+      given-names: "Jiaying"
+    - family-names: "Yuan"
+      given-names: "Chenhan"
+    - family-names: "Ingram"
+      given-names: "William A."
+      orcid: "0000-0002-8307-8844"
+    - family-names: "Fox"
+      given-names: "Edward A."
+      orcid: "0000-0003-1447-6870"
+    - family-names: "Eldardiry"
+      given-names: "Hoda"
+      orcid: "0000-0002-9712-6667"
+  title: "VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models"
+  journal: "CoRR"
+  year: 2024
+  doi: "10.48550/arXiv.2411.04825"
