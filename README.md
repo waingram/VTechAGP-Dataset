@@ -34,8 +34,7 @@ If you use this dataset in your research, please cite the following paper:
   journal      = {CoRR},
   volume       = {abs/2411.04825},
   year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2411.04825},
-  doi          = {10.48550/ARXIV.2411.04825},
+  doi          = {10.48550/arXiv.2411.04825},
   eprinttype   = {arXiv},
   eprint       = {2411.04825}
 }
