@@ -42,10 +42,12 @@ If you use this dataset in your research, please cite the following paper:
 
 ## Ethical & Usage Considerations
 - **Publicly Available Data**: All ETD metadata in this dataset was collected from publicly available sources in compliance with institutional repository policies.  
-- **Attribution**: Users of this dataset should respect citation norms and acknowledge the original authors of the ETDs when appropriate.  
+- **Attribution**: Users of this dataset should respect citation norms
+  and acknowledge the original authors of the ETDs when appropriate.  
 
-**License:** This dataset is released under the  
-[Open Data Commons Attribution License (ODC-By)](https://opendatacommons.org/licenses/by/summary/).
+## Acknowledgment
+This project was made possible in part by the Institute of Museum and Library Services  
+[LG-256638-OLS-24](https://www.imls.gov/grants/awarded/lg-256638-ols-24).
 
 ## License
-This dataset is released under the [Open Data Commons Attribution License (ODC-By) Summary](https://opendatacommons.org/licenses/by/summary/).
+This dataset is released under the [Open Data Commons Attribution License (ODC-By)](https://opendatacommons.org/licenses/by/summary/).

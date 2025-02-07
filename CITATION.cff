@@ -57,3 +57,7 @@ preferred-citation:
   journal: "CoRR"
   year: 2024
   doi: "10.48550/arXiv.2411.04825"
+funding:
+  - name: "Institute of Museum and Library Services"
+    award_number: "LG-256638-OLS-24"
+    award_uri: "https://www.imls.gov/grants/awarded/lg-256638-ols-24"

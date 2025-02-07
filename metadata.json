@@ -51,5 +51,12 @@
         }
     ],
     "language": "eng",
-    "repository": "https://github.com/waingram/VTechAGP-Dataset"
+    "repository": "https://github.com/waingram/VTechAGP-Dataset",
+    "funding": [
+        {
+            "funder": "Institute of Museum and Library Services",
+            "award_number": "LG-256638-OLS-24",
+            "award_uri": "https://www.imls.gov/grants/awarded/lg-256638-ols-24"
+        }
+    ]
 }
