@@ -24,11 +24,11 @@ authors:
     given-names: "Hoda"
     affiliation: "Virginia Tech"
     orcid: "0000-0002-9712-6667"
-doi: "10.5281/zenodo.xxxxx"
+doi: "10.5281/zenodo.14833933"
 license: "ODC-By-1.0"
 date-released: "2025-02-06"
 repository-code: "https://github.com/waingram/VTechAGP-Dataset"
-url: "https://doi.org/10.5281/zenodo.xxxxx"
+url: "https://doi.org/10.5281/zenodo.14833933"
 keywords:
   - ETDs
   - text simplification

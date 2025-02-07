@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14833933.svg)](https://doi.org/10.5281/zenodo.14833933)
+
 # VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset
 
 ## Variable Descriptions
